@@ -1,0 +1,485 @@
+{
+  "page_title": "Modular Courses - Sunbeam Institute",
+  "main_url": "https://www.sunbeaminfo.in/modular-courses-home",
+  "total_courses": 13,
+  "courses": [
+    {
+      "course_name": "Apache Spark Mastery - Data Engineering With PySpark",
+      "url": "https://www.sunbeaminfo.in/modular-courses/apache-spark-mastery-data-engineering-pyspark",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Target Audience:",
+          "content": "Data Engineers, Python Developers, Freshers\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Section 1: Spark Architecture & Internals\n- Distributed Computing Fundamentals\n  - RDD lineage, DAG scheduler, lazy evaluation\n  - Cluster managers overview\n- Spark 4.x Updates\n  - Adaptive Query Execution (AQE) enhancements\n  - Catalyst optimizer improvements\n- Performance Tuning\n  - Joins\n  - Partitioning, broadcast variables\n  - Memory management\nSection 2: PySpark DataFrames & SQL\n- Data Manipulation\n  - Complex types (JSON, arrays, maps)\n  - Window functions, pivot tables, UDFs/Pandas UDFs\n- Spark SQL Deep Dive\n  - Temp views, catalog API, Hive metastore integration\n  - SQL syntax for Delta Lake operations\n- Execution Plans\n  - Reading `explain()` output\n  - Predicate pushdown, partition pruning\nSection 3: Incremental Data Processing & Apache Kafka\n- Structured Streaming\n  - Event-time processing, watermarking, state management\n  - Kafka integration (source/sink)\n- Delta Lake Essentials\n  - ACID transactions\n  - Schema evolution\nSection 4: Spark Optimizations\n- Catalyst Internals\n  - Logical vs. physical plans\n  - Custom optimization extensions\n- Performance Best Practices\n  - File formats (Parquet/Delta)\n  - Resource allocation (executors/cores)\nSection 5: Databricks Lakehouse Platform\n- Lakehouse fundamentals\n- Workspace Navigation\n  - DBFS, clusters, notebooks\n- Delta Lake UI\n  - Viewing table history/schema\n- Data Governance\n  - Unity Catalog basics (no Admin tasks)\nSection 6: Apache Kafka Fundamentals  \n- Architecture\n  - Brokers, topics, partitions, consumer groups\n- Spark-Kafka Integration\n  - Structured Streaming with Kafka\n  - Job execution\nSection 7: Spark ML Introduction\n- MLlib Workflow\n  - Transformers vs. estimators, pipelines\n  - Feature engineering (VectorAssembler, StringIndexer)\n- Model Training\n  - Regression demo (no hyperparameter tuning)\nSection 8: Capstone Project\n- Pipeline implementation\n- Domain Examples: IoT monitoring, retail analytics\n  CLICK TO REGISTER"
+        },
+        {
+          "title": "Prerequisites:",
+          "content": "1. Python: Language Fundamentals, Functions, Collections, Pandas, ...\n2. SQL: CRUD Operations, Group By, Joins, Analytical queries, …\n3.Good to have: Linux basics, Hadoop/Hive knowledge beneficial\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Tools & Setup:",
+          "content": "- Local Installation: Spark 4.x, Java 11, Python 3.10  \n- Cloud: Databricks Community/Free Edition\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Outcome:",
+          "content": "Master PySpark DataFrames/SQL for batch & stream processing\nBuild optimized pipelines using Catalyst insights\nUnderstand Spark job execution internals\nUnderstand Apache Kafka and Integrate with Spark\nHands-on implementation of capstone project\nCertification-ready skills\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Important Notes:",
+          "content": "1. Developer-Centric Focus:\n- Covers PySpark application development (coding, debugging, optimization).\n- Excludes: Cluster administration, infrastructure setup (YARN/K8s), or Spark cluster tuning.\n2. Machine Learning Scope:\n- Only introductory-level Spark ML (pipeline structure, basic concept).\n- Excludes: Advanced ML concepts (hyperparameter tuning, etc), DL frameworks, or MLOps.\n3. Language & Environment:\n- PySpark (Python API) only – Scala/Java/R APIs not covered.\n- Databricks usage focuses on developer work, not account/admin management.\n4. Kafka Integration:\n- Covers Spark-as-Consumer/Producer – not professional Kafka cluster setup, security, or Streams API.\n5. Infrastructure Assumptions:\n- All labs use local/standalone mode or Databricks Community Edition.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Video Availability till date:",
+          "content": "17th Nov 25\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 Spark-O-04 16-Aug-2025 17-Sep-2025 7:00 PM  To  9:00 PM\nSchedule : Mon-Sat\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "50 hrs."
+    },
+    {
+      "course_name": "Aptitude",
+      "url": "https://www.sunbeaminfo.in/modular-courses/aptitude-course-in-pune",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Target Audience:",
+          "content": "Students\nFresher's\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Course Contents:",
+          "content": "English -  (nouns,pronouns,verbs,adjectives,adverbs,prepositions,conjuction,articles,Tenses, Voice,Direct Indirect Speech, Idioms, Synonyms & Antonyms, Reading Comprehension )\nReasoning - (Analogy, Coding and Decoding, Syllogism, Blood Relations, Seating Arrangements, Puzzles, Directions, Data Sufficiency, Numerical Series, Ranking & Ordering)\nQuantitative - (Number System, Percentage, Profit and Loss, Ratio & Proportion, Partnership, Average, Ages, Mixture & Alligation, Simple Interest & Compound Interest, cyclicity and remainder, Time Speed & Distance, Trains Boats & Streams, Time & Work, Wages (man Days), Pipes & Cisterns, Permutations & Combinations, Probability, Problems on Ages, Surds And Indices)\nTest Series\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Recorded Videos:",
+          "content": "Recorded videos will be accessible for up to 7 Days from the date of upload.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 Aptitude-O-02 02-Feb-2026 23-Feb-2026 6:00 PM  To  9:00 PM\nSchedule : Mon - Fri\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "30 hrs."
+    },
+    {
+      "course_name": "C++",
+      "url": "https://www.sunbeaminfo.in/modular-courses/cpp-classes",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Target Audience:",
+          "content": "Students\nFresher's\nWorking professionals \nCLICK TO REGISTER"
+        },
+        {
+          "title": "Pre-requisites:",
+          "content": "C Programming\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "C++ Introduction\nNamespace\nC++ Language Features\nException Handling\nOOPS Concepts\nDynamic Memory Allocation, Destructor & Copy Constructor\nFriend Function & Operator Overloading\nHow To Share Data Between Objects\nInheritance & Polymorphism\nVirtual Function, Abstract Class & Interface\nSTL\nFILE I/O\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 CPP- O-07 23-Jan-2026 20-Feb-2026 5:00 PM  To  8:00 PM\nSchedule : Weekdays - (Mon-Fri)\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "60 Hrs."
+    },
+    {
+      "course_name": "Core Java",
+      "url": "https://www.sunbeaminfo.in/modular-courses/core-java-classes",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Target Audience:",
+          "content": "Students\nFresher's\nWorking professionals \nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Java Language Fundamentals\nJava language features\nOverview of JDK, JRE and JVM\nData types and wrapper classes\nPackage, path and classpath\nArrays, Enum, jar file\nOOPs Concept\nClass, reference, instance\nConstructor chaining\nObject class\nStatic initializer block\nAssociation and inheritance\nPolymorphism and dynamic method dispatch\nAbstract class and Interface\nException Handling\nError and exception\nChecked and unchecked Exception\nTry-with-resource\nMulti-catch block\nCustom exception\nChained exceptions\nFunctional Programming Fundamentals\nNested and local class\nAnonymous inner class\nFunctional interface\nLambda expression\nMethod and constructor references\nConstructor Reference\nGenerics\nBoxing/Auto-Boxing and Unboxing/Auto-Unboxing\nParameterized type\nBounded type parameter\nWild Card and its type\nGeneric method\nString Handling\n Overview of UNICODE\nString, StringBuffer and StringBuilder\nStringTokenizer\nRegular expression\nCollection Framework\nComparable versus Comparator\nList, ArrayList, Vector\nSet, TreeSet\nHashing\nHashSet, Hashtable and HashMap\nJava 8 Streams\nMultithreading\n Advantages & issues of process & thread\nThread class and Runnable\nThread States, life cycle\nRace condition, deadlock, monitor\nSynchronization and Object class\nFile IO \nPath basics\nText file and binary file processing\nSerialization and deserialization\nSerialVersionUID\nReflection\nMetadata and its application\njava.lang.Class class\nOverview of reflection classes and interfaces\nDynamic method invocation\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Pre-requisites:",
+          "content": "OOP concepts: Class, Object, overloading, constructor, inheritance and virtual function.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Software Setup:",
+          "content": "SDK: Open JDK 1.8\nEditor: MS VS Code\nIDE: Eclipse\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Student Feedback:",
+          "content": "Rohan Parmane: Your dedication and passion for teaching truly shine through in every lesson. Your ability to engage students and make complex concepts understandable is impressive. The positive environment you create in the classroom fosters both learning and growth. Keep up the excellent work Your thoughtful approach and dedication are greatly appreciated by me.\nKetan Kore: I've had the pleasure of learning Core Java under the tutelage of Sir, and I must say that he's the best mentor I've had. Their thorough understanding of Java fundamentals, combined with their ability to present complex topics in a straight forward and understandable manner, has been quite helpful in my learning process.\nKetan Kore: Your explanations are always clear and well-structured, which helps grasp difficult concepts more easily.Nice teaching, best interaction with us, great at doubt solving.\nRohan Parmane: excellent I will miss Sunbeam Teaching. Sir taught us very well. we got so much knowledge about java in just a little time. sir explained each concept very easily and understandably. Thank you sir for your valuable guidance.\n  CLICK TO REGISTER"
+        },
+        {
+          "title": "Recorded Videos:",
+          "content": "Recorded videos will be accessible for up to 7 Days from the date of upload.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 CJ-O-17 23-Jan-2026 20-Feb-2026 9:00 AM  To  1:00 PM\nSchedule : Weekdays - (Mon-Fri)\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "80 Hrs."
+    },
+    {
+      "course_name": "Data Structures And Algorithms",
+      "url": "https://www.sunbeaminfo.in/modular-courses/data-structure-algorithms-using-java",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Target Audience:",
+          "content": "Students\nFresher's\nWorking professionals\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Algorithm Analysis:\nTime complexity\nSpace complexity\nLinked List:\nArray advantages and disadvantages\nLinked List concept\nLinear Singly Linked List\nCircular Singly Linked List\nLinear and Circular Doubly Linked List\nComplexity analysis of Linked List operations\nStack:\nStack concept\nStack using Array\nStack using Linked List\nExpresion conversion & evaluation (prefix, infix and postfix)\nParenthesis balancing\nComplexity analysis of Stack operations\nQueue:\nQueue concept & types\nQueue using Array\nQueue using Linked List\nComplexity analysis of Queue operations\nSorting:\nSelection sort\nBubble sort\nInsertion sort\nQuick sort\nMerge sort\nHeap sort\nComplexity analysis of sorting algorithms\nSearching:\nLinear Search\nBinary Search\nHashing\nComplexity analysis of searching algorithms\nTree:\nTree concept & types\nTree traversal (Inorder, Preorder and Postorder)\nBinary Search Tree (BST) implementation\nBST: add node, travsersal, delete node, balancing, BFS & DFS.\nComplexity analysis of BST algorithms\n Graph:\nGraph concept & types\nAdjacency Matrix implementation\nAdjacency List implementation\nSpanning Tree algorithms: Prim’s MST, Kruskal’s MST\nShortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd\nSearch algorithms: BFS, DFS, A* search\nComplexity analysis of Graph algorithms\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Pre-requisites:",
+          "content": "Java Programming: Class & Object, Generics, Java collections (Array list). \nCLICK TO REGISTER"
+        },
+        {
+          "title": "Outcome:",
+          "content": "Understand common data structures (array, linked list, stack & queue) and their applications.\nLearn advanced data structures (hashing, trees, heap & graphs) and their operations. \nImplement data structures and algorithms using Java.\nRevise fundamentals for Data structure interviews.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Software Setup:",
+          "content": "Any IDE & compiler for Java\nMay use online editor\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Important Notes:",
+          "content": "Code along with trainer in live class.\nAssignments will be given for self practice.\nLine by line implementation of data structures in Java.\nCorresponding C++ & Python codes will be shared.\nDiscussion of frequently asked interview questions.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Student Feedback:",
+          "content": "Excellent Teaching, concept clearance and doubt clearing. Thank you sir for taking this wonderful session. Before this session I have only theory knowledge but now I am comfortable in code and logic also.\nreally enjoyed the approach of explaining DS. It was good. Cleared all the doubts which I have asked with no rush, maintained simplicity in teaching with each topics.\nAbhilash Kamble\nI don’t owe my professional success to my destiny, courage, luck, belief, confidence or fortune. I owe it to a wonderful scholar like you. Nothing can come close to the inspirational presence of an instructor like you in a student’s journey. You have no idea how important a role you play in shaping my research development, maybe we did not meet a lot, but those little encouragement words means a lot to me. I really enjoyed all of the readings and found they were diverse and inclusive. I learned a lot. Thank you for allowing us space to not only have dialogue but be creative within our assignments as well. I really learned some useful tips and tricks for DATA STRUCTURE AND ALGORITHMS which will help me in \"Competitive Programming\" as well. Thank you for being so encouraging and doing everything you can to keep us motivated and supported throughout our program. Your knowledge and leadership provide us with a priceless model for our own careers. Your diligence and direction have inspired my inner confidence to climb like a Tiger until I reach the pinnacle of my ambitions. One of the best decisions I had a fantastic time by taking your course in such Lock-Down period due to the COVID Pandemic. Thank you for loving your job so much! You are an amazing teacher! \nAbhishek Verma\nIt was an amazing course as I imagined. Because of Nilesh sir's lecture, I got depth knowledge of data structure and I’m sure this is more than enough to build my upcoming career. Sunbeam provides the best facilities of video lectures too and because of this facility, I personally got many profits if I forgot any concept I goes through these lectures and it will help me to understand these concepts. The enthusiasm which sunbeam provides always gives us good fruit. Thank you Sunbeam.\nAshish Mishra  \nThe way of your explanation is excellent. I have learned first time Data structure and Algorithms but never felt tough in understanding at any moment. All the contents of data structures and algorithms learned very well and easily. Thank you very much, sir.  \nAniket Katte\nFirst of all, thank you for sharing your precious knowledge in a very efficient manner because even if I'm from none IT background I understood all things expertly. I'm sure that it will be very helpful throughout my career. Thank you ðŸ˜Š \nTejas Jadhav\nThe best thing about the course is that this course is very punctual about timing and syllabus. None of the single point is not skipped. and in learning time there is a motivated environment. Nilesh sir's way of teaching is awesome now I am big fan of sir. As I am a last year student many of the concepts is not cleared but after this course, I have that confidence that I am really good in DSA. Thank you nilesh sir and Sunbeam Team......!!! \nShubham Pate\nall sessions are very well explained, understood very well, it will surely help me in dac course as data structure is a part of syllabus, the way of teaching was interesting, i enjoyed learning during course. Thanks a lot. \nBilal Pathan\nBest approach to learn Ds is to learn through the basic and to learn basics is know basic .. the whole process by Nilesh sir made me understand Data structure in very simple way and to made an environment where we had an open discussion on of doubts without thinking whether to ask or not... Thanks a lot sir as beginner in data structure you have made me expert in ds what I need is now a paper work. So thanks a lot sir and thanks to vishal sir for helping me solve the basic problems.\n  CLICK TO REGISTER"
+        },
+        {
+          "title": "Getting Started with DS...",
+          "content": "Course Highlight...\nTime Complexity...\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Recorded Videos:",
+          "content": "Recorded videos will be accessible for up to 7 Days from the date of upload.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 DSA-O-12 29-Jan-2026 20-Feb-2026 5:00 PM  To  8:00 PM\nSchedule : Weekdays - (Mon-Sat)\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "60 HRS."
+    },
+    {
+      "course_name": "Dev Ops",
+      "url": "https://www.sunbeaminfo.in/modular-courses/Devops-training-institute",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Syllabus",
+          "content": "Week 1: Linux\nDevOps\nIntroduction to DevOps\nSDLC and Agile fundamentals\nDevOps Lifecyle\nIntroduction to the Tools used in DevOps Lifecyle\nLinux\nInstallation and configuration using VM\nBooting\nFile System\nWorking with Text files\nArchiving and compressing files\nUser and Group management\nFile Permissions\nPackage management\nSystemd management\n  Week 2: Git\nFoundation of VCS\nWhat is Git?\nGit Workflow\nGit Internals\nDemystifying branching\nCollaboration with GitHub\n  Week 3: Docker\nVirtualization\nHardware virtualization vs Containerization\nDocker fundamentals\nArchitecture\nInstallation and configuration\nImage management\nContainer management\nDocker network\nPersisting data with Docker volumes\nContainer Orchestration with Docker Swarm\n  Week 4: Kubernetes\nIntroducing Kubernetes and its features\nArchitecture\nInstallation of configuration of Kubernetes cluster\nPod management\nSecrets and ConfigMaps\nService and Networking\nState persistence with PersistentVolumes and PersistentVolumeClaims\nObservability\nProbes\n  Week 5: Jenkins\nIntroduction to CI/CD pipeline\nJenkins cluster installation and configuration\nConfiguration of pipeline\nScripted pipeline\nImplementing security with Jenkins\nSetting up notifications\nUsing Jenkinsfile\n  Week 6: AWS\nIntroduction to Cloud\nWhat is AWS?\nAWS Services\nCompute Services:\nEC2 instance\nVPC\nLambda\nStorage Services: S3\nDatabase Services: RDS (MySQL)\nDevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray\nContainer Services: ECS, EKS\n  Week 7: Terraform\nInfrastructure as a Code\nInstallation and Configuration\nTerraform foundation\nWorkflow\nTerraform modules\nImplementing and maintaining states\nHCP Terraform\n  Week 8: Ansible\nIntroduction to Ansible\nPull vs Push method\nInstallation and Configuration\nArchitecture and Design of Ansible\nDiving into playbooks\nUsing Ansible with cloud\nUsing Ansible with containers\nModules and plugins\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Prerequisites",
+          "content": "Basic Linux administration\nKnowledge of any development stack\nKnowledge of testing tools like Selenium and JUnit\nKnowledge of build tools like Ant/Gradle/Maven\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Diwali Vacation Break:",
+          "content": "Diwali Holidays are scheduled from 17th October 2025 to 31st October 2025.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 Dev Ops-O-06 15-Sep-2025 20-Nov-2025 9:00 PM  To  11:00 PM\nSchedule : Mon - Thu\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "80 Hrs."
+    },
+    {
+      "course_name": "Dream LLM",
+      "url": "https://www.sunbeaminfo.in/modular-courses/dreamllm-training-institute-pune",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Prerequisite:",
+          "content": "- Basic to intermediate Python programming (loops, functions, lists, dictionaries, basics of classes)\n- Basic understanding of ML concepts (what a model, training, and loss mean)\n- High-level math intuition: addition, subtraction, multiplication and division    \n- Familiarity with PyTorch or NumPy is helpful but not mandatory\n- A laptop with 8 GB RAM (GPU recommended but not required)\n- Curiosity and willingness to learn how LLMs work internally (not just use APIs)\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Introduction to LLM\nWhat is large language model?\nTypes of LLM\nApplications of LLM\nRequirements of DreamLLM\nMathematics and Pytorch required for LLM\nVectors\nMatrices\nTensors\nLinear Algebra\nAll maths topics with Pytorch implementation\nIntroduction to Deep Learning\nDifference between ML and DL\nNeural network architecture\nIntroduction to forward and backward propagation\nWhy should you build DreamLLM?\nStrategies of building LLM\nFine tuning vs creating custom LLM\nSupervised (labelled) vs unsupervised (unlabelled) training custom LLM\nArchitecture of DreamLLM\nTransformers\nRelationship between LLM and transformer\nIntroduction to transformers\nTransformer architecture\nTypes of transformers\nUnderstanding data\nData requirements to train DreamLLM\nPreprocessing the data\nTokenization\nCustom tokenization\nEmbeddings basics\nByte pair encoding\nProcessing data using sequence modelling\nIntroduction to RNN (LSTM and GRU)\nIntroduction and requirement of attention mechanism\nImplementing attention mechanism\nSelf attention mechanism\nSingle head\nMulti head\nCreating LLM from scratch\nDeciding the layers, activation functions\nImplementing feed forward network\nGenerating text using custom LLM\nFine tuning for further tasks\nFine tuning the DreamLLM on labelled data\nFine tuning the DreamLLM on unlabelled data\nEvaluation of DreamLLM\nDeploying the DreamLLM\nUse AWS cloud for deployment\nAutomate the deployment using AWS DevOps tools\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Outcomes:",
+          "content": "Academic Outcomes\nTheoretical Understanding\nDeep knowledge of mathematical foundations (Linear Algebra, Probability & Statistics, Optimization).\nUnderstanding key concepts in Machine Learning and Deep Learning.\nIn-depth knowledge of Transformer architectures, Attention Mechanisms, and their variants (GPT, BERT, T5).\nPractical Skills\nProficiency in Python and the use of deep learning frameworks like TensorFlow and PyTorch.\nAbility to implement, train, and fine-tune advanced neural network models.\nSkills in data preprocessing, feature extraction, and handling large datasets.\nEvaluation and Deployment\nKnowledge of evaluation metrics for NLP models (BLEU, ROUGE).\nTechniques for deploying LLMs in production environments using APIs and containerization tools (Docker, Kubernetes).\nProfessional Outcomes\nJob Readiness\nEnhanced employability in roles related to AI research, machine learning engineering, and NLP development.\nAbility to tackle complex problems in natural language processing and develop innovative solutions\nResearch Capabilities - Skills to contribute to the field of AI and NLP through original research. - Understanding of current trends, challenges, and opportunities in LLM development. - Understanding of ethical considerations in AI and NLP, including bias mitigation, privacy, and data governance. - Commitment to developing AI solutions that are fair, transparent, and responsible.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Capstone project:",
+          "content": "Project Overview\nProject Name: DreamLLM\nObjective: Develop a state-of-the-art Large Language Model (LLM) from scratch, focusing on innovation and advanced capabilities.\nScope: The project aims to create an LLM with the ability to understand, generate, and interpret human language.\nTarget Audience: Researchers, developers, and enthusiasts interested in advanced AI and NLP.\nNote: For the sake of time and infrastructure, the LLM will be trained on the limited data. (For the real version of it, you may want to go for huge data which will cost more.)\nTechnical Requirements\nProgramming Language: Python (version 3.11)  Deep Learning Frameworks:PyTorch\nSoftware Tools:\nJupyter Notebook\nGit for version control\nDocker for containerization (optional, depending on the participants)\nKubernetes for deployment (optional, depending on scalability needs)\nLibraries and Tools:\nNumpy, Pandas (for data manipulation)\nNLTK or SpaCy (for text preprocessing)\nMatplotlib, Seaborn (for data visualization)\nHardware Requirements:\nOwn infrastructure\nHigh-performance GPU(s)\nSufficient storage for large datasets\nAdequate RAM (minimum 32 GB)???????\nGoogle Colab with TPU or GPU support\nRunpod\nFunctional Requirements\nModel Architecture:\nTransformer-based architecture with advanced attention mechanisms\nSupport for different variants (e.g., GPT, BERT, T5)\nPre-training and fine-tuning capabilities\nData Handling:\nData preprocessing pipeline (tokenization, embedding)\nLarge dataset support (e.g., Wikipedia, Common Crawl)\nTraining Process:\nDistributed training for scalability\nHyperparameter tuning (learning rate, batch size, etc.)\nEvaluation Metrics:\nLanguage accuracy metrics (BLEU, ROUGE)\nPerformance benchmarks (e.g., GLUE tasks)\nInference and Deployment:\nAPI-based deployment (RESTful or gRPC)\nReal-time inference capabilities\nUser Interface:\nWeb-based interface for interacting with the model (optional)\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Video recording will be available till 05 June 2026 on portal",
+          "content": "CLICK TO REGISTER"
+        },
+        {
+          "title": "Dream LLM — Course Overview",
+          "content": "CLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 DreamLLM-O-01 05-Jan-2026 09-Feb-2026 9:00 PM  To  11:00 PM\nSchedule : Monday - Thursday\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "5 weeks."
+    },
+    {
+      "course_name": "Machine Learning",
+      "url": "https://www.sunbeaminfo.in/modular-courses/machine-learning-classes",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Course Highlights",
+          "content": "CLICK TO REGISTER"
+        },
+        {
+          "title": "Target Audience:",
+          "content": "Students\nFresher's\nWorking Professionals\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Introduction to Machine Learning\nBig picture of machine learning\nWhy machine learning is needed?\nTypes of machine learning\nChallenges of machine learning\nCreating machine learning pipeling\nEnd-to-end process\nRegression \nUnderstanding statistical regression\nPerforming regression with\nSimple linear regressison\nMultiple linear regression\nSupport vector machine\nEvaluating models using RMSE, MSE, MAE etc\n Classification\nUnderstanding need of classification\nClassification vs regression\nPerforming classification with\nLogistic regression\nSupport vector machine\nDecision trees\nK nearest neighbours\nEvaluating models using AuC and RoC etc\nEnsemble Learning\nWhat is ensemble learning\nNeed of ensemble learning\nTypes of ensemble learning\nBagging\nRandom forest\nBoosting\nGradient boosting\nXgboost\nStacking\nClustering\nWhy clustering is needed?\nPerforming clustering using\nHierarchical clustering\nK meaning clustering\nAssociation Rule Mining\nWhere association rule mining is needed\nPerforming association rule mining using\nApriori\nDimensionality Reduction\nIntroduction to feature extraction\nWhat is dimensionality reduction?\nPerforming dimensionality reduction using\nPCA\nIntrodution to Deep Learning\nWhat is deep learning?\nIntroduction to artificial networking\nIntroduction to TensorFlow and Keras\nIntroduction MLPs with Keras\nConvolutional Neural Network\nDeep computer vision using CNN\nIntroduction to images and convolutions\nCNN architecture\nImage classification using CNN\nObject detection using CNN\nRecurrent Neural Network\nIntroduction to RNN\nProcessing sequences using RNN\nTraining RNN\nForecasting time series using TensorFlow\nNaural language processing using RNN\nRepresentation Learning and GANs\nIntroduction to autoencoders\nStacked autoencoders\nIntroduction to GAN\nReinforcement Learning\nIntroduction to reinforcement learning\nIntroduction to OpenAI gym\nQ-learning\nDeep Q-Learning\nDeploying model on cloud (AWS)\nSaving models\nServing TensorFlow model\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Pre-requisites:",
+          "content": "Python fundamentals\nCollections\nFunctions\nClasses\nDecorators\nPackages\nNumpy\nPandas\nMatplotlib\nStatistics fundamentals\nNote: Training videos on important topics will be shared for your own practice\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Outcome:",
+          "content": "You will be able to understand when, where and how to use ML\nYou will be able to solve problems related to regression, classification, AI etc.\nYou will be able to create models which can be used in desktop and mobile applications\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Important Note:",
+          "content": "Course does not cover the following:\nPython Programming Syntax, even though entire ML programming will be done in Python. (Join prerequisite course : python-development)\nStatistics behind ML algorithms, however foundations of descriptive & inferential statistics are covered exclusively (Refer syllabus).\nWeb technologies, however serving ML model in the web application is covered.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Software Setup:",
+          "content": "Python 3.x\nIDE: Pycharm\nPackages: numpy, pandas, scikit, pytorch, keras, flask\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Student Feedback:",
+          "content": "The excellent teaching style and excellent understanding of teaching topics. What I like the most about the course is how Amit Sir helps to improve visualization of code using proper diagrams and images. Also, proper sequencing of sample examples helps to revise the topic in the future. It’s good that sir gives more time on basic topics in the beginning so that the foundation is strong. Your knowledge and leadership provide us with a priceless model for our own careers. I am so happy you are part of my education. I learned to truly care about diversity and inclusion through your classes, and I hope now spread that message in a passionate but thoughtful way. You’re awesome!\nAmazing skill of teaching and a very well structured course for people to start to learn to machine learning. The assignments are very good for understanding the practical side of machine learning. To all those thinking of getting in ML, this is a must-have course. Kindly continue these online sessions post COVID-19 pandemic. It's really helpful for those who cannot come to the institute due to timing issues /working out of Pune etc. but willing to learn from you all.\nThank You.\nKudos to Sunbeam and Amit Sir again, for conducting Machine Learning with Python course in such a great manner. Amit Sir teaching as always is very precise and he goes out of this schedule to answer and cover, each and every doubt of the students and the topic in the syllabus. The course was also extended by a week, so as to cover all the topics in a meticulous manner.\nThank you Amit Sir and Sunbeam once again :)\n  CLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 ML-O-07 26-Oct-2023 28-Nov-2023 07:30 AM  To  9:30 AM\nSchedule : Weekdays - (Mon -Fri)\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "40 hrs."
+    },
+    {
+      "course_name": "Mastering GenAI",
+      "url": "https://www.sunbeaminfo.in/modular-courses/mastering-generative-ai",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Course Introduction",
+          "content": "Join Amit Kulkarni, an industry expert and certified AI specialist, as he walks you through the Mastering GenAI course at Sunbeam Pune. This program is designed to help you understand, build, and innovate with AI-powered solutions.\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Mastering AI Basics\n  Overview of Statistics\nDefinition and importance of statistics\nTypes of statistics: descriptive and inferential\nRole of statistics in data science and machine learning\nBasic statistical terminology (population, sample, parameter, statistic)\nSampling\nSampling methods\nsampling distributions\nCentral Limit Theorem\nDescriptive Statistics\nMeasures of central tendency (mean, median, mode)\nmeasures of variability (range, variance, standard deviation)\nskewness and kurtosis\nProbability:\nBasic concepts of probability, conditional probability\nBayes' theorem.\nRandom variables and probability distributions\nDistributions:\nNormal distribution\nBinomial distribution\nPoisson distribution\nUniform distribution\nHypothesis Testing:\nNull and alternative hypotheses\nType I and Type II errors\nP-values\nConfidence intervals\nCorrelation Analysis:\nPearson correlation\nSpearman's rank correlation\nTime Series Analysis:\nTrend analysis\nSeasonality\nMoving averages\nARMA models\nARIMA models\nData Visualization:\nImportance of data visualization\nPrinciples of effective data visualization\nCommon visualization techniques:\n  Histograms\n  Box plots\n  Scatter plots\n  Heatmaps\n  Bar charts\nData Preprocessing\nData cleaning and handling missing values\nData transformation (normalization, standardization)\nFeature engineering and selection\nEncoding categorical variables\nHandling imbalanced datasets\nData splitting (training, validation, test sets)\nData augmentation techniques\nOutlier detection and handling\nIntroduction to Machine Learning\nOverview of machine learning\nTypes of machine learning:\nsupervised learning\nunsupervised learning\nreinforcement learning\nsemi-supervised learning\nApplications of machine learning\nChallenges and limitations of machine learning\nRegression Analysis\nOverview of regression analysis\nAlgorithms for regression:\n Linear regression\n Ridge regression\n Lasso regression\nAssumptions of regression analysis\nModel evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE)\nModel interpretation and communication of results\nApplications of regression analysis\nClassification\nOverview of classification\nTypes of classification\nEvaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC)\nAlgorithms for classification:\nDecision trees\nk-nearest neighbors (k-NN)\nNaive Bayes\nEnsemble methods (Bagging, Boosting, Stacking)\nHyperparameter tuning and model selection\nCross-validation techniques\nApplications of classification\nClustering\nOverview of clustering\nTypes of clustering:\nK-means clustering\nHierarchical clustering\nEvaluation metrics for clustering (Silhouette score)\nDimensionality Reduction\nOverview of dimensionality reduction\nImportance of dimensionality reduction\nTechniques for dimensionality reduction:\n Principal Component Analysis (PCA)\n    Mastering-AI-Advance\nIntroduction to Deep Learning\nOverview of deep learning\nDifferences between traditional machine learning and deep learning\nApplications of deep learning in various domains\nChallenges and limitations of deep learning\nOverview of generative AI\nApplications of generative AI in various domains\nChallenges and limitations of generative AI\nDeep Learning Frameworks\nOverview of popular deep learning frameworks (TensorFlow, PyTorch, Keras)\nOverview of generative AI frameworks (Huggingface, Langchain)\nSetting up the environment\nArtificial Neural Networks (ANNs)\nFeedforward neural networks\nwhat is a perceptron\nMulti-layer perceptrons (MLPs)\nActivation functions (ReLU, sigmoid, tanh)\nLoss functions (mean squared error, cross-entropy)\nRegression and classification using ANNs\nModel evaluation metrics (accuracy, precision, recall, F1-score)\nModel interpretability\nApplications of ANNs in real-world scenarios\nHands-on: Build and train ANN model for regression and classification tasks\nConvolutional Neural Networks (CNNs)\nOverview of CNNs and their architecture\nConvolutional layers and filters\nPooling layers (max pooling, average pooling)\nFlattening and fully connected layers\nApplications of CNNs in image processing and computer vision\nHands-on: Build and train a CNN for image classification\nRecurrent Neural Networks (RNNs)\nOverview of RNNs and their architecture\nANN vs CNN vs RNN\nLong Short-Term Memory (LSTM) networks\nGated Recurrent Units (GRUs)\nApplications of RNNs in natural language processing and time series analysis\nHands-on: Build and train an RNN for text classification or time series prediction\nGenerative Adversarial Networks (GANs)\nOverview of GANs and their architecture\nGenerator and discriminator networks\nTraining GANs and challenges\nApplications of GANs in image generation and data augmentation\nVariants of GANs (DCGAN, CycleGAN, StyleGAN)\nHands-on: Build and train a GAN for image generation\nTransfer Learning\nOverview of transfer learning\nFine-tuning pre-trained models\nApplications of transfer learning in various domains\nHands-on: Fine-tune a pre-trained model for a specific task\nNatural Language Processing (NLP)\nOverview of NLP and its applications\nText preprocessing techniques (tokenization, stemming, lemmatization)\nWord embeddings (Word2Vec, GloVe, FastText)\nSequence-to-sequence models\nAttention mechanisms in NLP\nNamed Entity Recognition (NER)\nSentiment analysis\nFine-tuning pre-trained models for NLP tasks\nHands-on: Build and train an NLP model for text classification or sentiment analysis\nLarge Language Models (LLMs)\nOverview of LLMs and their architecture\nTransformer architecture\nAttention mechanisms\nPre-training and fine-tuning LLMs\nApplications of LLMs in natural language processing\nHands-on: Fine-tune a pre-trained LLM for text generation or classification\nRetrieval-Augmented Generation (RAG)\nOverview of RAG\nHow RAG works\nApplications of RAG in natural language processing\nChallenges and limitations of RAG\nFuture directions of RAG\nHands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text)\nEvaluation metrics for RAG models\nHands-on: Evaluate the performance of a RAG model\nAgentic RAG\nOverview of agentic RAG\nHow agentic RAG works\nApplications of agentic RAG in natural language processing\nChallenges and limitations of agentic RAG\nFuture directions of agentic RAG\nHands-on: Build an agentic RAG model for a specific task\nFine tuning LLMs\nOverview of fine-tuning LLMs\nHow to fine-tune LLMs\nApplications of fine-tuning LLMs in natural language processing\nChallenges and limitations of fine-tuning LLMs\nFuture directions of fine-tuning LLMs\nHands-on: Fine-tune an LLM for a specific task\n  CLICK TO REGISTER"
+        },
+        {
+          "title": "Prerequisites:",
+          "content": "Beginners with basic python knowledge\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Student Feedback:",
+          "content": "Amit Kulkarni Sir is truly the best in this field. He explains the basics of technology, which is rare, and makes difficult concepts easy to understand. His syllabus is market-oriented, covering the latest trends.\n— Amruta Deole, Senior Software Developer\n  The hands-on projects, prompt engineering techniques, and deployment strategies were especially valuable. A great choice for both freshers and professionals aiming to upskill in Gen AI.\n— Rahul Kulkarni, Data Analyst & ML/DL Developer\n  Amit Sir answered thousands of questions with a smile. His passion for teaching and deep expertise inspired me. The sessions were technically sound and full of real-world insights.\n— Sanket Gawali, Solution Developer\n  The course provided a strong foundation, progressing seamlessly from basics to advanced topics like RAG and LLMs. The balance of theory and practice was perfect.\n— Shivani Bhinge, Associate Data Science Engineer\n  This was a zero-to-hero Generative AI course. I can now make an impact in my work using AI. Amit Sir’s humility and support even after the course are unparalleled.\n— Chaitanya Takalikar, Software Engineer\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 AI-O-002(Combo A+B) 14-Jul-2025 03-Sep-2025 9:00 PM  To  11:00 PM\n2 Mastering-AI-Basics-O-01(A) 14-Jul-2025 06-Aug-2025 9:00 PM  To  11:00 PM\n3 Mastering-AI-ADV-O-01(B) 07-Aug-2025 03-Sep-2025 9:00 PM  To  11:00 PM\nSchedule : Mon - Thu\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "60 Hrs."
+    },
+    {
+      "course_name": "Mastering MCQs",
+      "url": "https://www.sunbeaminfo.in/modular-courses.php?mdid=57",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Target Audience:",
+          "content": "Students\nFresher's\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Course Contents:",
+          "content": "Aptitude, Reasoning, English\nComputer Fundamentals & Concepts of Programming\nC Programming, C++\nData Structure, Operating Systems\nData Communication Networking\nBig Data, Al\nComputer Architecture, Digital Electronics, and Microprocessors\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 Mastering MCQs-O-03 For C-CAT & MNC Interviews 11-Dec-2025 08-Jan-2026 11:00 AM  To  12:30 PM\nSchedule : Mon-Fri\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "1 Month."
+    },
+    {
+      "course_name": "MERN (FULL-STACK) DEVELOPMENT",
+      "url": "https://www.sunbeaminfo.in/modular-courses/mern-full-stack-developer-course",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Syllabus",
+          "content": "NODE\nIntroduction\nwhat is node\nadvantages and limitations\nEnvironment setup\ninstall node\ncreate a new project\nconfigure project properties\ndebugging node application\nBasics\nintroduction to npm\nintroduction to package.json\nimporting npm modules\ncommand line arguments\nnode async vs sync\nthreading model\nmicroservices\nintroduction to microservices\ndeveloping microservices using js\nconfiguration\ndeployment\nHttp\ncreating web server\ncalling REST apis\nExpress\nintroduction to express\ncreate new project\nexpress routes and router\nmiddleware\nconnecting to database\nadding authentication\nNode modules\nfile system\nbuffer\nexpress\ncrypto-js\nmulter\nmysql2\npostgres\nmoment\npassport\nmorgan\nReact\nSetting up environment\ninstalling nodejs\ninstalling and configuring babel\ninstalling and configuring webpack\nIntroduction to SPA\nwhat is single page architecture?\nSPA architecture\nPros and Cons\nother SPA frameworks\nReact fundamentals\nintroduction to components\ncomponent oriented architecture\nwhat components ?\nenvironment setup for react and react native\nbuild workflow\nReact basics\nhello world react app\ncreating functional component\ncreating dynamic output\ncomponent lifecycle\ndebugging react application\nworking with props\nstyling react component\nIntroduction to state management\nrules of state management\ninitializing state through constructors\nupdating state properties\napp lifecycle\nhandling errors\nIntroduction to Redux\nwhy redux?\npros and cons\nredux architecture\nactions\nstore\nreducers\nAdvanced Redux concepts and integration\nconnecting react to redux\nmapStateToProps\nmapDispatchToProps\nasync in redux\nasync status and error handling\nBasic and advanced Routing\nintroduction to routing\nroot level routing\nchild level routing\nReact hooks\nwhat is hook?\nrules of hook\nusing state hook\nusing effect hook\nbuilding custom hook\nHandling online payment\nconnecting react with online payment gateway\nTesting React components\ntesting overview\nsetting up environment\ntesting react components\n  CLICK TO REGISTER"
+        },
+        {
+          "title": "Pre-requisites:",
+          "content": "Object Oriented Programming Concepts\nAny RDBMS (SQL)\nWeb Programming Fundamentals (HTML, CSS, JS)\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 MERN-O-03 02-Jun-2025 03-Jul-2025 09:00 PM  To  11:00 PM\nSchedule : Mon-Thu\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "40 hrs."
+    },
+    {
+      "course_name": "MLOps & LLMOps",
+      "url": "https://www.sunbeaminfo.in/modular-courses/mlops-llmops-training-institute-pune",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Prerequisites:",
+          "content": "Python Libraries: numpy, pandas, matplotlib, sci-kit learn, pytorch\nSCM: git\nCI/CD Pipeline:\nJenkins and GitHub Actions: scripted pipeline configuration\nContainerization:\nDocker: installation and configuration, building custom images, containers, volumes, networks, port forwarding\nContainer Orchestration:\nKubernetes: cluster management, namespaces, pods, policies, services, configmap, secrets, networking, storage, autoscaling\nCloud:\nAWS: EC2, ELB, Autoscaling, VPC, S3, Lambda, DevOps on AWS\nInfrastructure as a code:\nTerraform: AWS infrastructure management\nModel building using scikit-learn and pytorch or tensorflow\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Experiment Tracking: MLFlow, Weights and Biases\nData and model versioning: dvc and LakeFS\nContainerization of models: Docker\nMLOps Pipeline: KubeFlow and MLFlow\nModel serving: KServe, Tensorflow Serving\nCI/CD for MLOps: Jenkins and GitHub Actions\nObservability: ELK\nMonitoring: Prometheus and Grafana\nCLICK TO REGISTER"
+        },
+        {
+          "title": "VIdeo recording will be available till 05 March 2026 on SunBeam Portal",
+          "content": "CLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 MLOps and LLMOps (O-01) 24-Nov-2025 05-Dec-2025 9:00 PM  To  11:00 PM\nSchedule : Monday to Friday (9pm to 11pm)\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "2 weeks."
+    },
+    {
+      "course_name": "Python Development",
+      "url": "https://www.sunbeaminfo.in/modular-courses/python-classes-in-pune",
+      "description": "",
+      "topics": [
+        "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam"
+      ],
+      "prerequisites": "",
+      "syllabus": [],
+      "accordion_sections": [
+        {
+          "title": "Prerequisite:",
+          "content": "Any programming language\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Highlights:",
+          "content": "Live hands-on approach\nBuilds foundation for Machine Learning/Data science\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Syllabus:",
+          "content": "Python Fundamentals and Environment Setup\nIntroduction to Python\nApplications of Python in Machine Learning, Backend, Automation\nInstalling Python on Windows, macOS, Linux\nPython interpreters and virtual environments\nRunning Python programs\nScript mode vs interactive mode\nBasic coding standards and best practices\nCore Python Syntax and Data Types\nVariables and naming conventions\nBuilt-in data types: int, float, complex, bool, string\nType conversion and type checking\nInput and output operations\nUnderstanding Python memory basics\nControl Flow and Decision Making\nif, elif, else statements\nNested conditions\nLogical and comparison operators\nReal-world decision-making examples\nLoops and Iterations\nfor loop\nwhile loop\nrange function\nbreak, continue, pass\nNested loops\nCommon looping patterns\nPython Data Structures\nLists\nCreation, indexing, slicing\nList operations and methods\nList comprehensions\nTuples\nTuple creation\nTuple vs list\nUse cases and immutability\nSets\nSet creation\nSet operations\nMathematical set concepts\nDictionaries\nKey-value pairs\nCRUD operations\nNested dictionaries\nHandling JSON-like data\nStrings and Text Processing\nString operations\nCommon string methods\nString formatting using f-strings\nText manipulation and cleaning basics\nFunctions and Modular Programming\nDefining and calling functions\nFunction arguments: positional, keyword, default\nargs and kwargs\nReturn values\nScope: local and global\nCreating reusable modules\nObject-Oriented Programming in Python\nOOP concepts and importance\nClasses and objects\nConstructors\nInstance variables and class variables\nMethods\nEncapsulation\nInheritance\nPolymorphism\nIntroduction to magic methods\nReal-world OOP examples\nError Handling and Debugging\nTypes of errors in Python\ntry, except, else, finally\nCreating custom exceptions\nDebugging techniques\nWriting robust code\nFile Handling and Data Input Output\nReading and writing text files\nWorking with CSV files\nWorking with JSON files\nFile handling best practices\nIntroduction to logging\nWorking with Dates, Time and Utilities\nDatetime module\nTime module\nDate formatting and parsing\nTimestamps and timers\nPython Standard Library Overview\nos and sys modules\nmath and random modules\ncollections module\nitertools introduction\nUseful built-in functions\nIntroduction to Data Handling for Machine Learning\nImportance of data in ML\nIntroduction to NumPy: Arrays and vectorized operations\nIntroduction to Pandas: DataFrames and Series\nReading datasets\nBasic data exploration and cleaning\nPython for Backend Development Foundations\nRole of Python in backend systems\nBasics of HTTP and REST APIs\nIntroduction to Flask and FastAPI concepts\nRequest and response lifecycle\nJSON handling in backend\nBasic database interaction concepts\nDatabase connectivity\nIntroduction to MySQL and SQLite\nDatabase design basics (tables, rows, columns, keys)\nCRUD operations using SQL\nConnecting Python with databases\nUsing Python database connectors\nExecuting queries from Python\nHandling database transactions\nError handling in database operations\nMini Project\nData-oriented mini project for ML foundation\nBackend-oriented mini project using Python logic\nEmphasis on clean code and problem-solving\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Student Feedback:",
+          "content": "The course content was well-structured and covered all the essential topics needed to build a solid foundation in Python programming. What stood out the most for me was the clarity with which the  concepts were explained. Sir went above and beyond by covering additional topics that were incredibly valuable. I now feel much more confident in my Python skills, thanks to this course. \nI can genuinely say it was one of the most enriching learning experiences I’ve had. I was referred by a colleague to join SUNBEAM, I wasn’t entirely sure what to expect initially, but from the very first session, it became clear that I was in the hands of an exceptional teacher. Sir has an extraordinary talent for simplifying even the most complex Python concepts, making them easy to grasp for all students. \nHis explanations are consistently clear, and he demonstrates remarkable patience, ensuring that every question is answered thoroughly and that no one is left behind. What truly stood out to me was his practical approach to teaching – beyond just theory, he provided real-world examples that made it easy to see how Python could be applied in my professional work. Sir's dedication to his students is truly admirable. \nI now feel confident in my Python skills and am eager to apply what I’ve learned in my career. His teaching style, depth of knowledge, and unwavering support are truly exceptional, and I feel very fortunate to have had the opportunity to be taught by him.\nTo be honest, Python was my first authentic experience of learning programming language and this\nexperience was made memorable by you sir. Older me was saying programming is soo boring, soo complicated, an headache. But sir you totally changed my perspective. Now, I have gained confidence\nthat I too can develop applications.\nYou just have not only taught us python, You taught insights of python. how python works internally. I never ever trained like this before. You showed the way how to look at concepts insights just not syntax. Its Conceptual + Insights + syntactical Training I got. My words are not enough to express the gratitude but still to get teacher like you needs luck also.\n\nThe quizzes at the end of each module were also a great way to test my knowledge. The Q&A sessions 15-20 mins before and after each lecture added more value to it. The example of  \"Potter and Stencils\" was amazing to understand the difference between \"Java and Pythons class\". Similarly the example of (2 or more) parallel projects while teaching the concept of working with \"Virtual Environment\" was amazing. \nRequest the sunbeam management to please start such courses for Ex-CDAC students which helps the CDAC family to grow and show what the CDAC pupils can do with CDAC gurus showing us the way ahead. It would be needless to praise our CDAC guru’s knowledge. Teaching methodologies as doing classes from US at 4:30 am PST time I always had a smile on my face a kid like zeal to learn what Sir would bring to the table that day and by end of min 2:30 hrs of a lecture he would leave us in awe. I would say CDAC sunbeam is not an institutional at all, it more of a Gurukul where the pupils are lifelong connected to the Gurus here at Sunbeam like Nilesh Sir,(for motivating when I was about to quit CDAC coming from ECE background), Prashant Sir, Vijay Sir, Sameer Sir(had a magical experience when he taught us in 2011 Feb) , Sarang Sir(never thought that Software engineering subject could be fun and also be taught)\nCLICK TO REGISTER"
+        },
+        {
+          "title": "Recorded videos will be accessible for up to one month from the date of upload.",
+          "content": "CLICK TO REGISTER"
+        },
+        {
+          "title": "Batch schedule",
+          "content": "Sr.No Batch Code Start Date End Date Time\n1 Python-O-15 23-Jan-2026 20-Feb-2026 8:00 AM  To  10:30 AM\nSchedule : Mon - Fri\nCLICK TO REGISTER"
+        }
+      ],
+      "full_content": "Pune | Karad: +91 82 82 82 9806 | Zoom Counselling Sessions: Meeting Id: 4708351612 & Password: sunbeam",
+      "duration": "50 hrs."
+    }
+  ]
+}

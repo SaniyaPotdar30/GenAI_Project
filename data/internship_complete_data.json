@@ -1,0 +1,199 @@
+{
+  "main_description": "It is really difficult to sustain competitive edge of an industry. No matter you are an employer, employee or an entrepreneur.\n\nTechnology, innovations and business trends has added diversified change to the organizational process. Individual should acquire proficiency, mainly in technical and develop personal skills to adapt these industry dynamics.\n\nWe at Sunbeam are known for providing IT training, solutions, and services. Our training approach contemplate our students to take a wise decision and distinguish Sunbeam as elite institute. Our innovative training methods, use of adequate technology, and emphasis on specific program adds value to success of Sunbeam.\n\nTeam at Sunbeam is young, energetic, and committed. Our team can nurture strong technical foundation and build the most progressive career of a candidate in the Industry. Team Sunbeam will challenge and will definitely inspire you. Spend your good time with our team and it will definitely change your life.",
+  "accordion_sections": [
+    {
+      "title": "Student Industrial Training & Internship",
+      "content": "At Sunbeam, we recognize the importance of practical experience in shaping the careers of aspiring professionals. Our industrial training and internship programs provide students with the opportunity to gain hands-on technology, develop valuable skills, and explore their interests in various fields. We offer flexible durations of 1 month, 2 months, and 6 months Internship Program to accommodate the needs and schedules of students.\n\nIf you're looking for a short-term immersion or a more extensive exploration, our programs offer a blend of training, projects, under the guidance of project mentors which will enhance skills and career prospects of a candidate.\nList of Internship Program\nSr.No.\nDuration\nStructure\nMode\n1\n1 Month\n1 month of comprehensive training\nConcurrent execution of a mini project\nOffline mode at Sunbeam campus\n2\n2 months\nTraining sessions for relevant technologies\nExecution of 2 mini projects based on selected technology\nOne mini project to be developed in offline mode at Sunbeam campus.\nOne mini project to be developed in online mode.\n3\n6 months\nIn-depth training program during the entire internship\nOne mini project to be developed and one project to be developed with enhanced features based on specific technology.\nOne mini project to be developed in offline mode at Sunbeam campus.\nOne project to be developed with enhanced features based on specific technology in online mode."
+    },
+    {
+      "title": "Training And Industrial Program Features",
+      "content": "Hands-On Experience - Practical learning through project-based activities aligned with industry standards.\nStructured Training - Receive comprehensive training sessions tailored to the duration and focus area of the internship.\nProject Development - Work on mini and elaborative project using conceptual knowledge for real-world scenarios.\nMentorship - Guidance from experts throughout the internship period.\nEvaluation and Feedback - Participate in regular review meetings via Zoom for project evaluation and feedback.\nReporting - Project Evaluation Report will be shared with the respective college where candidate is from. In case candidate joins this program directly without any reference of college in such case report will be shared directly to the candidate."
+    },
+    {
+      "title": "Placements",
+      "content": "We help students prepare for the Campus Placement Programme. The PPP is a training module to improve the student’s employability skills."
+    },
+    {
+      "title": "Benefits Of Program",
+      "content": "Gain practical skills and industry exposure.\nEnhance your resume with hands-on project experience.\nReceive guidance and mentorship from industry experts.\nBe a part of a network with professionals and peers in specific field.\nEarn a certificate upon successful completion of the program.\n\nSUNBEAM TECHNOLOGY OFFERINGS FOR STUDENTS\nAt Sunbeam, we offer a wide range of technology programs tailored to the needs of students in computer science, information technology, and electronics. Each program aims to equip students with practical skills and knowledge essential for their career growth. Below is a detailed list of the technologies we provide, along with their respective locations:"
+    },
+    {
+      "title": "Available Internship Programs",
+      "content": "Internship program available for Computer Science, Information Technology, and Electronics Students\nTechnology\nAim\nPrerequisite\nLearning\nLocation\nGenerative AI\nCreate intelligent applications with LLMs.\nPython, Database\nAdvanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces\nHinjawadi\nAndroid Mobile App Development\nDevelop Android Mobile Application\nJava Programming, Database, JS\nAndroid Programming (Java), Express JS server\nHinjawadi\nC Programming\nSystem application development with GUI\nBasic C Programming\nRevision of structs and File IO, System programming, GUI programming in C\nHinjawadi & Marketyard\nJava Programming\n  Desktop application development with GUI\nBasic Java Programming\nRevision of Collections and File IO, GUI programming in Java\nHinjawadi, Marketyard & Karad\nWeb Programming\nWeb Application Development\nHTML, JS, CSS, SQL basics\nNode JS, REST services using Express, jQuery, Advanced SQL\nHinjawadi & Karad\nPython Web Development\n  Python-based Web Application Development\nPython, HTML, JS, CSS, SQL basics\nPython Flask/Database connectivity, REST services, jQuery, Advanced SQL\nHinjawadi\nData Science (ML)\nExploring & Visualizing data and Machine learning using Python.\nPython Programming\nAdvanced Python, ML models, Power BI, Flask\nHinjawadi\n.NET\nWeb application development using .NET\nC#\n.NET Web MVC, application development\nKarad / Hinjawadi\nCYBER SECURITY\nBuild and manage secure IT infrastructure.\nNetworking & Linux Basics\nConfigure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments\nHinjawadi\nARM Micro-controller\nDevelop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing\nC Programming, Basic electronics\nCortex-M embedded programming\nHinjawadi"
+    }
+  ],
+  "programs": [
+    {
+      "Technology": "Generative AI",
+      "Aim": "Create intelligent applications with LLMs.",
+      "Prerequisite": "Python, Database",
+      "Learning": "Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "Android Mobile App Development",
+      "Aim": "Develop Android Mobile Application",
+      "Prerequisite": "Java Programming, Database, JS",
+      "Learning": "Android Programming (Java), Express JS server",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "C Programming",
+      "Aim": "System application development with GUI",
+      "Prerequisite": "Basic C Programming",
+      "Learning": "Revision of structs and File IO, System programming, GUI programming in C",
+      "Location": "Hinjawadi & Marketyard"
+    },
+    {
+      "Technology": "Java Programming",
+      "Aim": "Desktop application development with GUI",
+      "Prerequisite": "Basic Java Programming",
+      "Learning": "Revision of Collections and File IO, GUI programming in Java",
+      "Location": "Hinjawadi, Marketyard & Karad"
+    },
+    {
+      "Technology": "Web Programming",
+      "Aim": "Web Application Development",
+      "Prerequisite": "HTML, JS, CSS, SQL basics",
+      "Learning": "Node JS, REST services using Express, jQuery, Advanced SQL",
+      "Location": "Hinjawadi & Karad"
+    },
+    {
+      "Technology": "Python Web Development",
+      "Aim": "Python-based Web Application Development",
+      "Prerequisite": "Python, HTML, JS, CSS, SQL basics",
+      "Learning": "Python Flask/Database connectivity, REST services, jQuery, Advanced SQL",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "Data Science (ML)",
+      "Aim": "Exploring & Visualizing data and Machine learning using Python.",
+      "Prerequisite": "Python Programming",
+      "Learning": "Advanced Python, ML models, Power BI, Flask",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": ".NET",
+      "Aim": "Web application development using .NET",
+      "Prerequisite": "C#",
+      "Learning": ".NET Web MVC, application development",
+      "Location": "Karad / Hinjawadi"
+    },
+    {
+      "Technology": "CYBER SECURITY",
+      "Aim": "Build and manage secure IT infrastructure.",
+      "Prerequisite": "Networking & Linux Basics",
+      "Learning": "Configure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "ARM Micro-controller",
+      "Aim": "Develop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing",
+      "Prerequisite": "C Programming, Basic electronics",
+      "Learning": "Cortex-M embedded programming",
+      "Location": "Hinjawadi"
+    }
+  ],
+  "batches": [
+    {
+      "Sr.No": "1",
+      "Batch": "IIT-08-H-A-MERN",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "2",
+      "Batch": "IIT-08-H-A-Android",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "3",
+      "Batch": "IIT-08-H-A-Internet of Things",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "4",
+      "Batch": "IIT-08-H-A-ARM Micro-controller",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "5",
+      "Batch": "IIT-08-H-A-Generative AI",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "6",
+      "Batch": "IIT-08-H-A-Java Programming",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "7",
+      "Batch": "IIT-08-H-A-.net",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "8",
+      "Batch": "IIT-08-H-A-Web Programming using Python",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "9",
+      "Batch": "IIT-08-H-A-Data Science (ML)",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    },
+    {
+      "Sr.No": "10",
+      "Batch": "IIT-08-H-A-Cyber Security",
+      "Batch Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees (Rs.)": "4000/-",
+      "Download Brochure": ""
+    }
+  ]
+}
